@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Java)/*
+!/Simple Tic-Tac-Toe (Java)/task/
+/Simple Tic-Tac-Toe (Java)/task/*
+!/Simple Tic-Tac-Toe (Java)/task/src
+
+# Project exclude paths
+/Topics/Calling methods/Product and rounded average of two integers/out/
+/Topics/Calling methods/Product and rounded average of two integers/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/Multidimensional array/Creating a diagonally striped pattern in a matrix/out/
+/Topics/Multidimensional array/Creating a diagonally striped pattern in a matrix/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
